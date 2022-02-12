@@ -1,4 +1,6 @@
-# todo-list
+# Todo List
+
+[Demo](https://chiawenlin15121.github.io/nuxt-todo-list/)
 
 ## Build Setup
 
@@ -16,4 +18,6 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+
+
 
